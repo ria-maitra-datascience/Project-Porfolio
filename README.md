@@ -1,1 +1,1 @@
-# Yet to write
+This repository consists of projects on classification, regression, time series and nlp.
