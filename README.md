@@ -1,1 +1,5 @@
-This repository consists of projects on classification, regression, time series and nlp.
+This repository consists end to end projects on the following topics:
+*Classification, 
+*Regression, 
+*Time series and 
+*NLP
