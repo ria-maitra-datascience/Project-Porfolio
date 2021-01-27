@@ -11,7 +11,7 @@ This repository consist of end to end projects on data science completed by me f
 # Contents:
 ## * Classification:
 Classification problem statement projects are been solved with the help of various machine learning algorithms such as
-#### 1. Logistic Regression, 
+#### - Logistic Regression, 
 #### 2. SVC,
 #### 3. Naves Bayes,
 #### 4. Decision Tree
