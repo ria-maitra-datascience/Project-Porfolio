@@ -20,7 +20,13 @@ This repository consist of end to end projects on data science completed by me f
   - [Fraud-Loan:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_7_Fraud%20_Loan_Prediction.ipynb)
   - [Space-Server:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_8_Sky_Survey.ipynb)
   - [Automobile-Insurance-Fraud:](Colab.research.google.com/drive/1GFAi1kY3LLj1fDQrjTUbsC376gzuhWmV#scrollTo=3a-fg2P5z9bG)\
-- *Tools:* *Numpy*, *Pandas*, *Scikit*
+- *Tools:* *Numpy*, *Pandas*, *Scikit*,Logistic Regression
+- SVC
+- Naves Bayes
+- Decision Tree
+- Knn
+- Random Forest Classifier etc.
+
 &nbsp;
 
 ### Regression:
@@ -47,10 +53,6 @@ This repository consist of end to end projects on data science completed by me f
   - [Malignent-Comments]
 - *Tools:*
 &nbsp;
-
-
-
-Classification problem statement projects are been solved with the help of various machine learning algorithms such as
 - Logistic Regression
 - SVC
 - Naves Bayes
