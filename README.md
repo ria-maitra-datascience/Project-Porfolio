@@ -9,7 +9,7 @@ This repository consist of end to end projects on data science completed by me f
 &nbsp;
 &nbsp;
 ## Contents:
-- ***Classification:***
+### &nbsp; Classification:
 Classification problem statement projects are been solved with the help of various machine learning algorithms such as
 - Logistic Regression
 - SVC
