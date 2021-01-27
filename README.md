@@ -8,10 +8,9 @@ This repository consist of end to end projects on data science completed by me f
 ##### 6. Conclusion
 &nbsp;
 &nbsp;
-## Contents:
-
-
-* Classification,
-* Regression,
-* Time series and 
-* NLP
+# Contents:
+##### * Classification:
+Classification problem statement projects are been solved with the help of various machine learning algorithms such as
+##### ----* Regression,
+##### * Time series and 
+##### * NLP
