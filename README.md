@@ -12,7 +12,8 @@ This repository consist of end to end projects on data science completed by me f
 ## Contents:
 ### Classification:
 - **Projects:**
-  - House Price
+  - [Micro-Credit-Fraud](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Micro_credit_final_submission.ipynb)
+  **[EFF](https://eff.org)**
 Classification problem statement projects are been solved with the help of various machine learning algorithms such as
 - Logistic Regression
 - SVC
