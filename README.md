@@ -6,13 +6,6 @@ This repository consist of end to end projects on data science completed by me f
 - Data Pre-processing
 - Building Machine Learning Algorithms 
 - Conclusion
-&nbsp; 
-Various Machine learning models and python libraries are used such as:
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit learn
 &nbsp;
 &nbsp;
 
