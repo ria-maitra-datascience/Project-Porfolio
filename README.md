@@ -1,5 +1,5 @@
 This repository consists end to end projects on the following topics:
-*Classification, 
+-*Classification, 
 *Regression, 
 *Time series and 
 *NLP
