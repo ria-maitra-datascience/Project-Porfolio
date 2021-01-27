@@ -21,9 +21,30 @@ This repository consist of end to end projects on data science completed by me f
   - [Space-Server:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_8_Sky_Survey.ipynb)
   - [Automobile-Insurance-Fraud:](Colab.research.google.com/drive/1GFAi1kY3LLj1fDQrjTUbsC376gzuhWmV#scrollTo=3a-fg2P5z9bG)\
 - *Tools:* *Numpy*, *Pandas*, *Scikit*
-  
-  
- 
+&nbsp;
+
+### Regression:
+- **Projects:**
+  - [Base-Ball:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/project_2_baseball.ipynb)
+  - [COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
+  - [Automobil-Insurance-Claim_Amount:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_11_Auto_insurance_claim_amount.ipynb)
+  - [Restaurant-Food-Cost:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_14_restaurant_food_cost-Copy1.ipynb)
+  - [Absenteeism:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_16_Absenteeism.ipynb)
+  - [Temperature:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_17.ipynb)
+  - [Country-COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
+- *Tools:* 
+&nbsp;
+
+### Time series:
+- **Projects:**
+&nbsp;
+
+### NLP:
+- **Projects:**
+&nbsp;
+
+
+
 Classification problem statement projects are been solved with the help of various machine learning algorithms such as
 - Logistic Regression
 - SVC
@@ -31,8 +52,3 @@ Classification problem statement projects are been solved with the help of vario
 - Decision Tree
 - Knn
 - Random Forest Classifier etc.
-### Regression:
-### Time series:
-### NLP
-- a
-- b
