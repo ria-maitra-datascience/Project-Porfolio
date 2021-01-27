@@ -36,11 +36,16 @@ This repository consist of end to end projects on data science completed by me f
 &nbsp;
 
 ### Time series:
-- **Projects:**
+- **Project:**
+  - [Company's-Stocks-Investments:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Time%20Series/Company_Stock_project(part_3).ipynb)
+- *Tools:*
 &nbsp;
 
 ### NLP:
 - **Projects:**
+  - [Fake-News-Classification](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
+  - [Malignent-Comments]
+- *Tools:*
 &nbsp;
 
 
