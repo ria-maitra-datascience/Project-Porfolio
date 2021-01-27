@@ -50,6 +50,6 @@ This repository consist of end to end projects on data science completed by me f
 
 ## Top Four Projects:
 - **[Micro-Credit-Loan-Fraud](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Micro_credit_final_submission.ipynb)**
-### [COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
-### [Fake-News-Classification](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
-### [Malignent-Comments]
+- **[COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)**
+- **[Fake-News-Classification](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)**
+- **[Malignent-Comments]**
