@@ -27,7 +27,7 @@ This repository consist of end to end projects on data science completed by me f
 - **Projects:**
   - [Base-Ball:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/project_2_baseball.ipynb)
   - [COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
-  - [Automobil-Insurance-Claim_Amount:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_11_Auto_insurance_claim_amount.ipynb)
+  - [Automobile-Insurance-Claim-Amount:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_11_Auto_insurance_claim_amount.ipynb)
   - [Restaurant-Food-Cost:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_14_restaurant_food_cost-Copy1.ipynb)
   - [Absenteeism:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_16_Absenteeism.ipynb)
   - [Temperature:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_17.ipynb)
@@ -43,7 +43,7 @@ This repository consist of end to end projects on data science completed by me f
 
 ### NLP:
 - **Projects:**
-  - [Fake-News-Classification](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
+  - [Fake-News-Classification:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
   - [Malignent-Comments]
 - *Tools:*
 &nbsp;
