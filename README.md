@@ -5,8 +5,8 @@ This repository consist of end to end projects on data science completed by me f
 - **Treating Outliers:** Outliers are treated either with z score method or every column is treated individually.
 - **Data Pre-processing:** In this step the data is scaled so that every values are on same scale and to avoid biaseness. Normalization and Standardization techniques are used.
 - **Building Machine Learning Algorithms:** Algorithms such as **Linear** **Regression, Logistic Regression, SVM, Naves Bayes, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting** are used.
-- Conclusion
-Every algorithm is optimized with the help of regularization and cross validation techniques for regression and classification problems respectively. With the help of Grid Search and Randomized Search
+- **Model Optimization:** After building models every model is optimized with the help of **Regularization and Cross Validation** techniques for regression and classification problems respectively. With the help of **Grid Search and Randomized Search** best suited parameters are been identified.
+- **Conclusion:** After analysing model performances, the best performing model is been selected and saved in a pickle file.
 &nbsp;
 &nbsp;
 
