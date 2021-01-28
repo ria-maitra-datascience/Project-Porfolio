@@ -7,6 +7,8 @@ This repository consist of end to end projects on data science completed by me f
 - **Building Machine Learning Algorithms:** Algorithms such as **Linear** **Regression, Logistic Regression, SVM, Naves Bayes, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting** are used.
 - **Model Optimization:** After building models every model is optimized with the help of **Regularization and Cross Validation** techniques for regression and classification problems respectively. With the help of **Grid Search and Randomized Search** best suited parameters are been identified.
 - **Conclusion:** After analysing model performances, the best performing model is been selected and saved in a pickle file.
+### NLP Project's Steps:
+- 
 &nbsp;
 &nbsp;
 
@@ -21,7 +23,7 @@ This repository consist of end to end projects on data science completed by me f
   - [Fraud-Loan:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_7_Fraud%20_Loan_Prediction.ipynb)
   - [Space-Server:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_8_Sky_Survey.ipynb)
   - [Automobile-Insurance-Fraud:](Colab.research.google.com/drive/1GFAi1kY3LLj1fDQrjTUbsC376gzuhWmV#scrollTo=3a-fg2P5z9bG)
-- *Tools:* *Numpy,* *Pandas,* *Scikit-learn,* *Logistic Regression,* *SVC,* *Naves Bayes,* *Decision Tree,* *Knn,* *Random Forest Classifier,*
+- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
 ### Regression:
@@ -33,20 +35,20 @@ This repository consist of end to end projects on data science completed by me f
   - [Absenteeism:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_16_Absenteeism.ipynb)
   - [Temperature:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_17.ipynb)
   - [Country-COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
-- *Tools:* 
+- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
 ### Time series:
 - **Project:**
   - [Company's-Stocks-Investments:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Time%20Series/Company_Stock_project(part_3).ipynb)
-- *Tools:*
+- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
 ### NLP:
 - **Projects:**
   - [Fake-News-Classification:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
   - [Malignent-Comments]
-- *Tools:*
+- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
 ## Top Four Projects:
