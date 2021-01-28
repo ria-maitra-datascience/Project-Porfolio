@@ -1,10 +1,10 @@
 # Data Science Portfolio
 This repository consist of end to end projects on data science completed by me for academic and self-learning purposes. Presented in the form of iPython Notebooks. Following steps are followed for completing the projects and they are:
 - **Defining Problem Statement:** Defining the problem statement by scrutinizing the dataset and identifying the type of machine learning model required to solve to find solution of the problem statement.
-- Exploratory Data Analysis(EDA) 
-- Treating Outliers
-- Data Pre-processing
-- Building Machine Learning Algorithms 
+- **Exploratory Data Analysis(EDA):** In this step the data is minutely analysed to extract any new information, to find any relationship within the independent variables and with independent variables to dependent variables. Univariate analysis, bivariate analysis and correlation matrix are used. Presence of any null values are handled. Skewness of the data is checked.
+- **Treating Outliers:** Outliers are treated either with z score method or every column is treated individually.
+- **Data Pre-processing:** In this step the data is scaled so that every values are on same scale and to avoid biaseness. Normalization and Standardization techniques are used.
+- **Building Machine Learning Algorithms:** Algorithms such as **Linear** **Regression, Logistic Regression, SVM, Naves Bayes, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting** are used.
 - Conclusion
 Every algorithm is optimized with the help of regularization and cross validation techniques for regression and classification problems respectively. With the help of Grid Search and Randomized Search
 &nbsp;
