@@ -48,7 +48,7 @@ This repository consist of end to end projects on data science completed by me f
 ### Time series
 - **Project**
   - [Company's-Stocks-Investments:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Time%20Series/Company_Stock_project(part_3).ipynb)
-- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
+- *Tools:* *ARIMA,* *SARIMAX,* *Numpy,* *Matplotlib,* 
 &nbsp;
 
 ### NLP
