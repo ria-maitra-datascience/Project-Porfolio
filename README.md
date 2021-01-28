@@ -16,7 +16,6 @@ This repository consist of end to end projects on data science completed by me f
 - Removing Stopwords with the help of **NLTK library.
 - **Stemmatization** and **Lemmatization**
 - Converting all texts into vectors with the help of **Count Vector**, **TF-IDF**, and **Word2Vec**.
-- 
 &nbsp;
 &nbsp;
 
