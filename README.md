@@ -10,6 +10,12 @@ This repository consist of end to end projects on data science completed by me f
 - **Model Optimization:** After building models every model is optimized with the help of **Regularization and Cross Validation** techniques for regression and classification problems respectively. With the help of **Grid Search and Randomized Search** best suited parameters are been identified.
 - **Conclusion:** After analysing model performances, the best performing model is been selected and saved in a pickle file.
 ### NLP Steps:
+- Converting all texts into lower case.
+- Removing punctuations.
+- **Tokenization**
+- Removing Stopwords.
+- **Stemmatization** and **Lemmatization**
+- Converting all texts into vectors with the help of **Count Vector**, **TF-IDF**, and **Word2Vec**.
 - 
 &nbsp;
 &nbsp;
