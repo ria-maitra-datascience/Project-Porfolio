@@ -9,7 +9,7 @@ This repository consist of end to end projects on data science completed by me f
 - **Building Machine Learning Algorithms:** Algorithms such as **Linear** **Regression, Logistic Regression, SVM, Naves Bayes, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting** are used.
 - **Model Optimization:** After building models every model is optimized with the help of **Regularization and Cross Validation** techniques for regression and classification problems respectively. With the help of **Grid Search and Randomized Search** best suited parameters are been identified.
 - **Conclusion:** After analysing model performances, the best performing model is been selected and saved in a pickle file.
-### NLP Steps:
+### NLP Steps
 - Converting all texts into lower case.
 - Removing punctuations.
 - **Tokenization**
