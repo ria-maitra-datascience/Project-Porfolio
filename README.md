@@ -1,5 +1,6 @@
 # Data Science Portfolio
 This repository consist of end to end projects on data science completed by me for academic and self-learning purposes. Presented in the form of iPython Notebooks. Following steps are followed for completing the projects and they are:
+### Machine Learning Steps:
 - **Defining Problem Statement:** Defining the problem statement by scrutinizing the dataset and identifying the type of machine learning model required to solve the problem statement.
 - **Exploratory Data Analysis(EDA):** In this step the data is minutely analysed to extract any new information, to find any relationship within the independent variables and with independent variables to dependent variables. Univariate analysis, bivariate analysis and correlation matrix are used. Presence of any null values are handled. Skewness of the data is checked.
 - **Treating Outliers:** Outliers are treated either with z score method or every column is treated individually.
@@ -7,7 +8,7 @@ This repository consist of end to end projects on data science completed by me f
 - **Building Machine Learning Algorithms:** Algorithms such as **Linear** **Regression, Logistic Regression, SVM, Naves Bayes, KNN, Decision Tree, Random Forest, AdaBoost, Gradient Boosting** are used.
 - **Model Optimization:** After building models every model is optimized with the help of **Regularization and Cross Validation** techniques for regression and classification problems respectively. With the help of **Grid Search and Randomized Search** best suited parameters are been identified.
 - **Conclusion:** After analysing model performances, the best performing model is been selected and saved in a pickle file.
-### NLP Project's Steps:
+### NLP Steps:
 - 
 &nbsp;
 &nbsp;
