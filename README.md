@@ -1,4 +1,5 @@
 # Data Science Portfolio
+## Summary
 This repository consist of end to end projects on data science completed by me for academic and self-learning purposes. Presented in the form of iPython Notebooks. Following steps are followed for completing the projects and they are:
 ### Machine Learning Steps:
 - **Defining Problem Statement:** Defining the problem statement by scrutinizing the dataset and identifying the type of machine learning model required to solve the problem statement.
