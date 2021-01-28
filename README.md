@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ## Summary
 This repository consist of end to end projects on data science completed by me for academic and self-learning purposes. Presented in the form of iPython Notebooks. Following steps are followed for completing the projects and they are:
-### Machine Learning Steps:
+### Machine Learning Steps
 - **Defining Problem Statement:** Defining the problem statement by scrutinizing the dataset and identifying the type of machine learning model required to solve the problem statement.
 - **Exploratory Data Analysis(EDA):** In this step the data is minutely analysed to extract any new information, to find any relationship within the independent variables and with independent variables to dependent variables. **Univariate Analysis, Bivariate Analysis and Correlation matrix** are used. Presence of any null values are handled. Skewness of the data is checked.
 - **Treating Outliers:** Outliers are treated either with **Z Score** method or every column is treated individually.
@@ -14,9 +14,9 @@ This repository consist of end to end projects on data science completed by me f
 &nbsp;
 &nbsp;
 
-## Contents:
-### Classification:
-- **Projects:**
+## Contents
+### Classification
+- **Projects**
   - [Micro-Credit-Loan-Fraud:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Micro_credit_final_submission.ipynb)
   - [Avacado:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_3_avocado.ipynb)
   - [Hr-Analytics:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Classification/Project_4_hr_attrition.ipynb)
@@ -28,8 +28,8 @@ This repository consist of end to end projects on data science completed by me f
 - *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
-### Regression:
-- **Projects:**
+### Regression
+- **Projects**
   - [Base-Ball:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/project_2_baseball.ipynb)
   - [COVID-19:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)
   - [Automobile-Insurance-Claim-Amount:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_11_Auto_insurance_claim_amount.ipynb)
@@ -40,14 +40,14 @@ This repository consist of end to end projects on data science completed by me f
 - *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
-### Time series:
-- **Project:**
+### Time series
+- **Project**
   - [Company's-Stocks-Investments:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Time%20Series/Company_Stock_project(part_3).ipynb)
 - *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
 &nbsp;
 
-### NLP:
-- **Projects:**
+### NLP
+- **Projects**
   - [Fake-News-Classification:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
   - [Malignent-Comments]
 - *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
