@@ -13,7 +13,7 @@ This repository consist of end to end projects on data science completed by me f
 - Converting all texts into lower case.
 - Removing punctuations.
 - **Tokenization**
-- Removing Stopwords.
+- Removing Stopwords with the help of **NLTK library.
 - **Stemmatization** and **Lemmatization**
 - Converting all texts into vectors with the help of **Count Vector**, **TF-IDF**, and **Word2Vec**.
 - 
@@ -56,7 +56,7 @@ This repository consist of end to end projects on data science completed by me f
 - **Projects**
   - [Fake-News-Classification:](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)
   - [Malignent-Comments]
-- *Tools:* *Numpy,* *Pandas,* *Matplotlib,* *Seaborn,* *Scikit-learn*
+- *Tools:* *NLTK,* *Matplotlib,* *Scikit-learn*
 &nbsp;
 
 ## Top Four Projects:
