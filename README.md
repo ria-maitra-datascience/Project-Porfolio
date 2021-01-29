@@ -63,3 +63,4 @@ This repository consist of end to end projects on data science completed by me f
 - **[COVID-19](https://github.com/ria1994maitra/Project-Porfolio/blob/main/Regression/Project_18(covid).ipynb)**
 - **[Fake-News-Classification](https://github.com/ria1994maitra/Project-Porfolio/blob/main/NLP/Fake_news_project(final).ipynb)**, [Documentation](https://github.com/ria1994maitra/Project-Portfolio-internship/blob/master/Fake%20News%20Prediction.pdf)
 - **[Malignent-Comments](https://github.com/ria1994maitra/Project-Portfolio-internship/blob/master/malign_comments(model).zip)**, [Documentation](https://github.com/ria1994maitra/Project-Portfolio-internship/blob/master/Malignant_comments.pdf)
+
